@@ -1,0 +1,13 @@
+
+* Domain
+	Deck - name, description, cards
+	Card - question, answer(s), catogorie(s)
+	Test - date, category, numberOfQuestions, numberQuestionsAnswered, numberOfQuestionsFailed, percentage
+	
+	
+* Create a new Deck/category of cards 
+* As a user I would like to take a test by selecting a category within a deck
+* As a user I would like to edit a card
+* As a user I would like to bulk import cards (remove old cards/append to cards)
+* Bulk export cards
+* A a user I would like to change the default # of questions per test (20,40,60,100,max)

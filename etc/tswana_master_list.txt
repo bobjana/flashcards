@@ -1,0 +1,482 @@
+
+Haar
+Moriri - Meriri
+
+Oog
+Leithlo - Mathlo
+
+Oor
+Tsebe - Ditsebe
+
+Mond
+Molomo - Melomo
+
+Tong
+Lelemo - Malemo
+
+Tand
+Leina - Maeina
+
+Stem
+Lentswe - Mantswe
+
+Ken
+Sekudu - Dikudu
+
+Skouer
+Lekgetla - Makgetla
+
+Elmboog
+Sekgano - Dikgano
+
+Bors
+Sehuba - Dihuba
+
+Arm
+Letsogo - Matsogo
+
+Hand
+Seatla - Diatla
+
+Vinger
+Monwana - Menwana
+
+Hart
+Pelo - Dipelo
+
+Long
+Lekwafo - Makwafo
+
+Lewer
+Sebete - Dibete
+
+Maag
+Mogodo - Megodo
+
+Nier
+Pio - DiPio
+
+Heup
+Leteka - Mateka
+
+Bobeen
+Serope - Dirope
+
+Been
+Lengwele - Mangwele
+
+Knie
+Lengwele - Mangwele
+
+Voet
+Leoto - Maoto
+
+Toon
+Monwana - Menwana
+
+Ligaam
+Mmele - DiMele
+
+Vel
+Letlalo - Matlalo
+
+Nael
+Lenale - Manale
+
+
+Ek
+Nna
+
+Jy
+Wena
+
+Ons
+Rona
+
+Julle
+Njena
+
+Hulle
+Bone
+
+Sien
+Bona
+
+Het Gesien
+Bone
+
+Hoor
+Hutla
+
+Het Gehoor
+Hutlile
+
+Vat
+Tswara
+
+Ruik
+Nkga
+
+Staan
+Ema
+
+Loop
+Tsamae / Sepela(ek en jy)
+
+Harloop
+Mata
+
+Hardloop Vinning
+Mata tata
+
+Le
+Robala
+
+Sit
+Dula
+
+Slim
+Bothlale
+
+Dom
+Sepoka
+
+Verstaan
+Thaloga
+
+Donker
+Lefifi
+
+Lig
+Lesedi
+
+Aarde
+Lefatse
+
+Son
+Letstatsi
+
+Maan
+Ngwedi
+
+Ster
+Naledi
+
+Aand
+Mantsiboa
+
+Dag
+Letsatsi
+
+Oggend
+Mosigare
+
+Aand
+Bosigo
+
+Tyd
+Nako
+
+Hoe laat is dit?
+Ke nako mang?
+
+Ek Wil
+Ke batla
+
+Ek Sal
+Ke Tla
+
+
+Plantjie
+Semela
+
+Vrug
+Kungwa / Maungwa
+
+Kalm
+Kokobela
+
+Rustig
+Sisibala
+
+Vol Wees
+Kgora
+
+Genoeg geeet
+Kgorile
+
+Kontrak
+Kontraka
+
+Aanrand
+Kobeka
+
+Ernstig Aanrand
+Kataka
+
+Afklim
+Fologa
+
+Bagasie
+Dihoto
+
+Bekruip
+Ratela
+
+Brein
+Boboko
+
+Ingang
+Kgoro
+
+Jaloesie
+Lefufa
+
+Knipoog (knip)
+Panya
+
+Kou
+Tlafuna
+
+Kul / Verneuk
+Tsietsa
+
+Lek
+Latswa
+
+Linkerhand
+Molemo
+
+Regterhand
+Letsog se seame (die hand wat slim is)
+
+Sag
+Boleto
+
+Sanger
+Mokopedi
+
+Skadu
+Moruti
+
+Predikant
+Mo ruti
+
+Skerp
+Bogale
+
+Mes is skerp
+Thipa e bogale
+
+Stomp
+Boboi
+
+Mes is stomp
+Thipae e boboi
+
+Stuur
+Ruma
+
+Swem
+Tshapa
+
+Kom ons gaan swem
+A re go tshapa
+
+Speel
+Tsameka
+
+Kom ons gaan speel
+A re go tsameka
+
+Steek
+Tlhaba
+
+Wolke
+Maru
+
+Dreun
+Duma
+
+Reen
+Pula
+
+Hier is nie reen nie
+Ga gona pula
+
+
+Mens - Mense
+Motho - Batho
+
+Man - Mans
+Monna - Banna
+
+Vrou - Vrouens
+Mosadi - Basadi
+
+Dogter - Dogters
+Mosetsane - Basetsane
+
+Seun - Seuns
+Mosimane - Basimane
+
+Fout - Foute
+Molato - Melato
+
+Stert - Sterte
+Mogatla - Megatla
+
+Manier - Maniere
+Mokgwa - Mekgwa
+
+Mond - Monde
+Molomo - Melomo
+
+Nek - Nekke
+Molala - Melala
+
+Boom - Bome
+Sethlare - Dithlare
+
+Byl - Byle
+Selepe - Dilepe
+
+Lewer - Lewers
+Sebete - Dibete
+
+Wurm - Wurms
+Seboko - Diboko
+
+Stoel - Stoele
+Setolo - Ditolo
+
+Luis - Luise
+(ne)Nta - Dinta
+
+Vlieg - Vliee
+(ne)Ntshi - Dintsi
+
+Skaap - Skape
+(ne)nku - dinku
+
+Neus - Neuse
+Nko - Dinko
+
+Oor - Ore
+Tsebe - Ditsebe
+
+Hout - Houte
+lekgong - dikgong
+
+Brief - Briewe
+lekwalo - dikwalo
+
+Melk
+lebese - lebese
+
+Pap
+bogoba - magoba
+
+Meel - Klomp Meel
+Boupi - Maupe
+
+Gras - Grasse
+Bojang - Majang
+
+Drank - Dranke
+Bojalo - Majalo
+
+Vloer - Vloere
+Bodilo - Madilo
+
+Deur - Deure
+Lemati - Dibati
+
+Witmens - Witmense
+Lekgoa - Makgoa
+
+Oog - Oe
+Leithlo - Mathlo
+
+Lap - Lappe
+Lesela - Masela
+
+Maag - Mae
+Legodu - Magodu
+
+Dief - Diewe
+Leshodu - Mashodu
+
+Om te eet
+go jja
+
+Om lief te he
+Go Rata
+
+Om lief gehe te word
+Go Ratwa
+
+Om te koop
+Go Reka
+
+Om te bou
+go aga
+
+Om te leeg
+go pela
+
+
+Een
+Engwe
+
+Twee
+Pedi
+
+Drie
+Tharo
+
+Vier
+Nne
+
+Vyf
+Tlano
+
+Ses
+Thataro
+
+Sewe
+Supa
+
+Agt
+Robedi
+
+Nege
+Robongwe
+
+Tien
+Lesome
+
+
+Maandag
+MMantaga
+
+Dinsdag
+La bobedi
+
+Woensdag
+La boraro
+
+Donderdag
+La bone
+
+Vrydag
+La bothlano
+
+Saterdag
+Labarataro
+
+Sondag
+Sontaga
+
+
+
