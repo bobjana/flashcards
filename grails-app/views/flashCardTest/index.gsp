@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<div class="content" role="main">
+<div class="content">
 
     <g:if test="${flash.message}">
         <div class="message" role="status">${flash.message}</div>

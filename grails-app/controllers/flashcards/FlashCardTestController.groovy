@@ -61,6 +61,14 @@ class FlashCardTestController {
         if (!params.ajax) {
             redirect(action: "next", params: [testId: flashCardTest.id])
         }
+        else{
+            def nextCard = flashCardTestService.nextCard(flashCardTest)
+            if (nextCard == null){
+                render new Card(id:-1) as JSON //"""{"redirect":"finish"}"""
+            }else{
+                render flashCardTestService.nextCard(flashCardTest) as JSON
+            }
+        }
     }
 
     def finish() {
@@ -68,5 +76,19 @@ class FlashCardTestController {
         flashCardTest.end = new Date()
         flashCardTest.save()
         [flashCardTest: flashCardTest]
+    }
+}
+
+public class RedirectMessage{
+
+    private boolean redirect = true
+
+
+    boolean getRedirect() {
+        return redirect
+    }
+
+    void setRedirect(boolean redirect) {
+        this.redirect = redirect
     }
 }
